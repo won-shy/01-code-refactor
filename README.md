@@ -33,6 +33,9 @@ CSS Changes
 
 Links:
 
+* <https://won-shy.github.io/Horiseon-Refactor-Git/>
+* <https://github.com/won-shy/Horiseon-Refactor-Git>
+
 ## License
 
 MIT LICENSE
