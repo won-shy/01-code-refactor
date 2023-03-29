@@ -7,4 +7,32 @@ This was our first project in which we refactored existing code of the agency, H
 How to apply "DRY" principle to make code more efficient, both in index.html and CSS stylesheets.
 
 ## Changes
+HTML CHANGES
+
 Title changed to Horiseon
+Changed unnnecessary <div> to <section> for semantics
+Added <main> tag for organization
+Added alt text for each image in the main body
+Added alt text for side graphics
+Changed last div to <footer> for semantics
+
+CSS Changes
+
+Grouped like elements and reordered to follow better structure (made sure to follow priority of elements top to bottom so that the correct values would be shown)
+Added comments between each section for easier reading
+
+
+
+## Installation
+Used VSCode
+Local Repo git pushed to Github through "git push origin main"
+Deployed through Github pages
+
+Links: 
+
+## License
+
+MIT LICENSE
+
+
+
