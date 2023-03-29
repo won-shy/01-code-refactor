@@ -21,9 +21,9 @@ HTML CHANGES
 
 CSS Changes
 
-Grouped like elements and reordered to follow better structure (made sure to follow priority of elements top to bottom so that the correct values would be shown)
-Added comments between each section for easier reading
-
+* Grouped like elements
+* Reordered to follow better structure (made sure to follow priority of elements top to bottom so that the correct values would be shown)
+* Added comments between each section for easier reading
 
 ## Installation
 
