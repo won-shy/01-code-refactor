@@ -1,12 +1,15 @@
+/* entire site settings*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+
 body {
     background-color: #d9dcd6;
 }
+
 
 .header {
     padding: 20px;
@@ -50,11 +53,13 @@ p {
     font-size: 16px;
 }
 
+
+/*changed url to match local file for main image*/
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../01-code-refactor/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
