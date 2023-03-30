@@ -6,7 +6,9 @@ This was our first project in which we refactored existing code of the agency, H
 
 ## Things Learned
 
-How to apply "DRY" principle to make code more efficient, both in index.html and CSS stylesheets.
+* How to use better semantic elements for specificity
+* Why it is important to add alt text for those that may not be able to see the webpages
+* How to apply "DRY" principle to make code more efficient, both in index.html and CSS stylesheets
 
 ## Changes
 
